@@ -38,7 +38,3 @@ This helps in testig the performance of the created recommendation system.
 graphlab.show_comparison(model_performance,[popularity_model, item_sim_model])`
 
 
-
-### Authors
-
-* Kathiravan Natarajan 
